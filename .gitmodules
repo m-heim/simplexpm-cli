@@ -1,0 +1,3 @@
+[submodule "simplexpm-api"]
+	path = simplexpm-api
+	url = https://github.com/m-heim/simplexpm-api
